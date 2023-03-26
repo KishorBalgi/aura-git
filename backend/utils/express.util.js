@@ -29,7 +29,7 @@ const { PORT } = process.env;
 expressApp.use(express.json());
 expressApp.use(
   cors({
-    origin: meta.dev_host,
+    origin: meta.host,
     credentials: true,
   })
 );
