@@ -1,6 +1,6 @@
 // Start log
-const { logInfo } = require("./utils/winston.util");
-logInfo("[START]");
+// const { logInfo } = require("./utils/winston.util");
+// logInfo("[START]");
 
 // Load and cache all Environment variables
 require("dotenv").config();
