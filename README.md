@@ -108,31 +108,43 @@ This is the source code of KLS GIT's fest AURA23 website.
     cd backend/
     node data/populate.js
    ```
-   This will populate your database with all the events present in data/events.js
+   This will populate your database with all the events present in data/events.json
 
 ### Pages
 
 - Home Page
-  <img src="" alt="Home Page">
-
+  <img src="https://user-images.githubusercontent.com/75678927/229338439-b73529fc-9762-4aba-a620-b7e3ce6acf4d.png" alt="Home Page">
+  
 - Registration
-  <img src="" alt="Signup Form">
-  <img src="" alt="Login Form">
+  <img src="https://user-images.githubusercontent.com/75678927/229338492-c8d47487-7ef1-4ffa-a724-35bd874c30c1.png" alt="Signup Form">
+  <img src="https://user-images.githubusercontent.com/75678927/229338501-1664f060-7505-489a-9661-5648163081fd.png" alt="Login Form">
 
 - Competitions
-  <img src="" alt="Competitions Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338534-e6400df3-e0a7-4232-b4c1-aeed9abf8129.png" alt="Competitions Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338549-52014c18-a3ed-4a14-9e3d-96b42a77724c.png" alt="Competitions Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338596-651a5695-0c04-4c9f-88b6-aa16ec7de029.png" alt="Competitions Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338576-88cadb06-11df-404f-8061-3c5e21be943f.png" alt="Competitions Page">
 
 - Competition Details page
-  <img src="" alt="Competition Details page">
+
+  <img src="https://user-images.githubusercontent.com/75678927/229338714-d332081e-e111-4a83-9cf4-eaa61b0e65e0.png" alt="Competition Details page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338747-e6759dad-809b-4e5b-9142-4d94e87e36b6.png" alt="Competition Details page">
 
 - Contact Us Page
-  <img src="" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338774-a35efa5c-3098-4981-848a-ceed72c499fb.png" alt="Schedule Page">
 
 - Rulebook Page
-  <img src="" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338808-e5d2fcbf-56a7-46a9-80a3-d9fb0311c392.png" alt="Schedule Page">
 
 - Schedule Page
-  <img src="" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338832-0d1b97a7-50b0-451e-9847-8e0e7db9d388.png" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338844-f8897040-0274-4f57-aaa0-4e0ab3400191.png" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338854-2faf16a8-080c-4367-9fd8-8365b8de72db.png" alt="Schedule Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229338875-173030cd-b43c-4f44-af3e-4926fab88e0f.png" alt="Schedule Page">
+
+- Profile Page
+  <img src="https://user-images.githubusercontent.com/75678927/229338991-67cbb6e3-59f6-4171-86cf-9985f7a5bdc6.png" alt="Profile Page">
+  <img src="https://user-images.githubusercontent.com/75678927/229339121-890583dc-9a18-42b2-8473-f5a126259760.png" alt="Profile Page">
 
 ### Project Maintainers
 
