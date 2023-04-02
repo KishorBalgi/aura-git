@@ -104,6 +104,9 @@ export const Footer = () => {
             </a> */}
           </div>
           <div className="my-5">© Copyright 2023. All Rights Reserved.</div>
+          <div className="my-1">
+            This site is hosted only for demonstration purposes.
+          </div>
         </div>
       </div>
     </footer>

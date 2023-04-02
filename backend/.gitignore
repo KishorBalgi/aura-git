@@ -20,3 +20,4 @@ configs/*.secure.json
 test*.js
 .DS_Store
 *.mongodb
+/data

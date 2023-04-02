@@ -24,12 +24,18 @@ import Changed from "./Components/ForgotPassword/Changed";
 // import AboutUs from "./Components/AboutUs/AboutUs";
 import News from "./Components/News/News";
 import "react-toastify/dist/ReactToastify.css";
+import { messageToast } from "./Utils/Toasts/Toasts";
 
 function App() {
   const { setUser } = useUser();
   const path = useLocation().pathname;
 
   useEffect(() => {
+    messageToast(
+      "This site is hosted only for demonstration purposes.",
+      "bottom-right",
+      8000
+    );
     const fetchData = async () => {
       await api
         .get("/auth/user/status")
