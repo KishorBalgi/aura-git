@@ -3,23 +3,20 @@
 This is the source code of KLS GIT's fest AURA23 website.
 
 <p align="center"> 
- <img src="https://raw.githubusercontent.com/KishorBalgi/aura-git/main/src/Assets/logo.png" alt="LOGO" border="0" width=200 height=100/>&nbsp;</a></p>
+ <img src="https://raw.githubusercontent.com/KishorBalgi/aura-git/main/src/Assets/logo1.png" alt="LOGO" border="0" width=300/>&nbsp;</a></p>
 
 # Tech Stack
 
 <p align="center">
-</p>
-
-<p align="center">
-<a href="https://react.dev/"><img src="" border="0" alt="React" title="React"/></a>  
-<a href="https://tailwindcss.com/"><img src="" border="0" alt="Tailwind" title="Tailwind"/></a>  
-<a href="https://nodejs.org/"><img src="" border="0" alt="NodeJS" title="NodeJS"/></a>  
-<a href="https://expressjs.com/"><img src="" border="0" alt="ExpressJS" title="ExpressJS"/></a>  
-<a href="https://www.mongodb.com/"><img src="" border="0" alt="MongoDB" title="MongoDB"/></a>  
+<a href="https://react.dev/"><img src="https://user-images.githubusercontent.com/75678927/229337642-bc08741b-a9f1-4d8b-9c20-0e63ebed6fcb.png" width="70px" border="0" alt="React" title="React"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/75678927/229337644-4ac5c67a-b19b-4745-9648-6008b7982014.png" width="70px" border="0" alt="Tailwind" title="Tailwind"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/"><img src="https://user-images.githubusercontent.com/75678927/229337648-36131d8b-8098-4c33-95c7-3438a7990d83.png" border="0" width="70px" alt="NodeJS" title="NodeJS"/></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/75678927/229337923-e4f100a3-4378-49b0-a1c3-26e47a9f7de5.png" border="0" width="70px" alt="ExpressJS" title="ExpressJS"/></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/75678927/229337732-ec83ff2c-3029-4dc0-a316-f10146037e8e.png" width="70px" border="0" alt="MongoDB" title="MongoDB"/></a>  
 </p>
   
 <p align="center">
-<a href="https://github.com/pi22by7/aura-git/stargazers"><img alt="GitHub stars" src="https://github.com/pi22by7/aura-git"></a>
+<a href="https://github.com/pi22by7/aura-git/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/pi22by7/aura-git"></a>
 <a href="https://github.com/pi22by7/aura-git"><img alt="GitHub stars" src="https://img.shields.io/github/last-commit/pi22by7/aura-git"></a>
 <a href="https://github.com/pi22by7/aura-git/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/pi22by7/aura-git?label=license"></a>
 </p>
@@ -139,9 +136,8 @@ This is the source code of KLS GIT's fest AURA23 website.
 
 ### Project Maintainers
 
-| <img src = "https://avatars.githubusercontent.com/u/70760826?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/75678927?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/79470399?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/25717503?v=4" width="50px"> |
-| :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| <img src = "https://avatars.githubusercontent.com/u/70760826?v=4" width="50px"> | <img src = "https://avatars.githubusercontent.com/u/75678927?v=4" width="50px"> |  <img src = "https://avatars.githubusercontent.com/u/25717503?v=4" width="50px">| <img src = "https://avatars.githubusercontent.com/u/79470399?v=4" width="50px"> |
+| :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- 
 |                   [Piyush Airani](https://github.com/pi22by7)                   |                 [Kishor Balgi](https://github.com/KishorBalgi/)                 | [Saumitra Topinkatti](https://github.com/SBTopZZZ-LG)                           | [parishkar singh](https://github.com/parishkar-9790)                            |
 
 ### License
