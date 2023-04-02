@@ -1,0 +1,800 @@
+[
+  {
+    "_slugs": {
+      "title": "the-poetic-pulse-slam-poetry",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd997ea",
+    "title": "The poetic pulse (Slam Poetry)",
+    "club": "Literary Club",
+    "description": "A Slam poetry competition. ",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "link": true,
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "canvas-chronicles-canvas-painting",
+      "club": "fine-arts-club"
+    },
+    "_id": "6406b733cb5e5780efd997eb",
+    "title": "Canvas chronicles (Canvas painting).",
+    "club": "Fine Arts Club",
+    "description": "Painters have used canvas to express their creativity for generations. It is still the preferred painting surface for novices and professionals alike.Canvas is a flexible painting surface that is available in a wide range of shapes, sizes, and forms to fit any requirement or budget. It has a wide range that may be used for everything from little paintings to big, sprawling compositions.\nJudging criteria:\r\n1. The use of the theme and the final execution\r\n2. Use of colors.",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "100",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "solo-serenade--classical",
+      "club": "dance-club"
+    },
+    "_id": "6406b733cb5e5780efd997ec",
+    "title": "Solo Serenade- Classical",
+    "club": "Dance Club",
+    "description": "Soul-o dance is not just a performance, it is a communication between the soul and body. Bringing  you all the bewildering event to express the Language of your soul through dance.\n\"Yatho hasta thatho drishti,\nYatho drishti thatho Manah\nYatho Manah thatho Bhaava\nYatho Bhava thatho Raasa.\"\nIf you have dedicated Manah and Bhava towards the classical dance form, then you are a right fit for this competition!\n\"Come Unleash Your Soul\".\n",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "pitch-tank",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd997ed",
+    "title": "The Startup-Showdown (PITCH TANK)",
+    "club": "Literary Club",
+    "description": "• The event consists of 3 rounds which will test their financial, entrepreneurship skills.\n• Round 1 – It will be a quiz based on business case studies, finance, start-ups, and corporate world.\n• Round 2 – It will be a presentation round, where the pitchers will present their business model canvas , market strategy, Finances in front of the investors.\n• Round 3 – The selected teams will present the prototype and will bid for good seed money from the Judges\n",
+    "team_size": 3,
+    "rounds": 3,
+    "registration_limit": "100",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "url": "https://forms.gle/KvLtvfkUeQ4btqRg7",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "waltz-and-wander",
+      "club": "dance-club"
+    },
+    "_id": "6406b733cb5e5780efd997ee",
+    "title": "Waltz and Wander",
+    "club": "Dance Club",
+    "description": "A perfect blend of dyad, where the dance elements of two individuals are in proportion. An event of single round.\n\"Lets see, Kaun kehelayega Jodi No.1\"\n",
+    "team_size": 2,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "cyber-clash-valorant",
+      "club": "e-gaming"
+    },
+    "_id": "6406b733cb5e5780efd997ef",
+    "title": "Cyber Clash (VALORANT)",
+    "club": "E-Gaming",
+    "description": "VALORANT - Valorant is a team-based first-person tactical hero shooter, players play as one of a set of Agents. Players are assigned to either the attacking or defending team with each team having five players on it. The match is played as best of 25 - the first team to win 13 rounds wins the match.",
+    "team_size": 6,
+    "rounds": 1,
+    "registration_limit": "",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 5
+  },
+  {
+    "_slugs": {
+      "title": "musica-classica-solo-classical-singing",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd997f0",
+    "title": "Musica classica (Solo Classical Singing)",
+    "club": "Music Club",
+    "description": "Saat suron ki sargam se mehfil saja jati hai, Berang jiban main rang bhar jati hai. Hai ye sabse pyara,nirala Sangeet jise duniya kehti hai.",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "minutes-of-magic",
+      "club": "photography-club"
+    },
+    "_id": "6406b733cb5e5780efd997f1",
+    "title": "Minutes of Magic",
+    "club": "Photography Club",
+    "description": "“You shouldn't dream your film, you should make it!” - Steven Spielberg. We live in a box of space and time. Movies are windows in its walls. They allow us to enter other minds, not simply in the sense of identifying with the characters, although that is an important part of it, but by seeing the world as another person sees it. Do you often find yourself immersed in this world? Almost everything you experience, somehow finds itself into your projects. Have you ever wondered what would it feel like if this was not only your passion but also your profession? Aura aims to provide you with the first stepping stone. Minutes of Magic gives you an opportunity come showcase your inner Director.",
+    "team_size": 6,
+    "rounds": 2,
+    "registration_limit": "",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "link": true,
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "samved-nukkad-natak",
+      "club": "dramatics"
+    },
+    "_id": "6406b733cb5e5780efd997f2",
+    "title": "SAMVED (Nukkad Natak)",
+    "club": "Dramatics",
+    "description": "In today’s fast-paced world, where people have an average attention span of probably a second, it is highly unlikely that you will be given a chance to make them sit up and hear you out. Well, this is the perfect opportunity. Here, we hit the streets, we sing, we dance, we act, we shout! Our purpose? SAAM….DHAAM…. DHAND…. BHED!\nSAMVED/NUKKAD/STREETPLAY is all about creating awareness about social problems that plague our soil and bringing about realisation in our youth! We have just one thing to say to you- SHOW THE CHANGE YOU WANT TO SEE! \n",
+    "team_size": 16,
+    "rounds": 2,
+    "registration_limit": "25",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "club": "special-events",
+      "title": "escape-room"
+    },
+    "_id": "6406b733cb5e5780efd997f4",
+    "title": "ESCAPE ROOM",
+    "club": "Special Events",
+    "description": "The team is locked inside a themed room with some general instruction. The clock is set ticking and you must plan your escape within the set time or less. To escape the room you might need to crack the codes, solve puzzles and unravel the mystery. The players must do some great teamwork, be creative and observant at the same time. It might look like just another room but it's an arcade full of questions and their hidden answers! You need not be a genius but smart enough to hit the bulls eye! Pay attention to every detail and leave no stone unturned!",
+    "team_size": 4,
+    "rounds": 3,
+    "registration_limit": "400",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 3
+  },
+  {
+    "_slugs": {
+      "title": "pencraft-story-writing",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd997f5",
+    "title": "Pencraft (Story Writing)",
+    "club": "Literary Club",
+    "description": "A story writing competition.",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "meddle-the-muddle-potpourri",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd997f6",
+    "title": "Meddle the muddle (Potpourri)",
+    "club": "Literary Club",
+    "description": "An event to test your brainstorming skills and the ability to work as a team.",
+    "team_size": 3,
+    "rounds": 3,
+    "registration_limit": "200",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "kala-mandala-rangoli-art",
+      "club": "fine-arts-club"
+    },
+    "_id": "6406b733cb5e5780efd997f7",
+    "title": "Kala mandala (Rangoli art).",
+    "club": "Fine Arts Club",
+    "description": "In India, the name Rangoli symbolizes Beauty, Hope, and Tradition.Traditionally, Rangoli is an art of decoration drawn on the floor or the entrances of homes. It is thought to bring good luck, prosperity on the house and in the family, and to welcome guests. \nJudging criteria:\r\n1. Use of colors \r\n2. Overall appearance\r\n3. Details and clarity in the art.",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "la-fotografia",
+      "club": "photography-club"
+    },
+    "_id": "6406b733cb5e5780efd997f8",
+    "title": "La Fotografia",
+    "club": "Photography Club",
+    "description": "La Fotografia  speaks about how photography can be art, where one can show their visual imaginations through the lens. It also implies how one’s view can be an act of creativity and expression. Aura aims to provide you the first stepping stone. La Fotografia  gives you an opportunity to come showcase your inner creator.",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "solo-serenade-western",
+      "club": "dance-club"
+    },
+    "_id": "6406b733cb5e5780efd997f9",
+    "title": "Solo Serenade-Western",
+    "club": "Dance Club",
+    "description": "Soul-o dance is not just a performance, it is a communication between the soul and body. Bringing  you all the bewildering event to express the Language of your soul through dance.\nAre you the one who grooves to the country-western music? Yes! What you waiting for..!\nBe it Jazz, Hip-hop, Contemporary, Tango. \nWestern solo dance competition is a right platform for you.\n\"Come Unleash Your Soul\".",
+    "team_size": 1,
+    "rounds": 3,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "viva-la-vida-battle-of-bands",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd997fa",
+    "title": "Viva la vida (Battle of Bands)",
+    "club": "Music Club",
+    "description": "The beat of the drums, the power of distorted guitars and the vision to make the whole crowd rock with you! Does your band have what it takes? Battle of bands gives you a chance to prove yourselves! Go ahead and own that stage.\nIf you have what it takes to take up the role of a poet on a fighter jet, then May I have your attention please?\nTheme: Original Rap ",
+    "team_size": 10,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "treasure-hunt--quest-to-eldorado",
+      "club": "special-events"
+    },
+    "_id": "6406b733cb5e5780efd997fb",
+    "title": "A Quest to El Dorado! (Treasure Hunt)",
+    "club": "Special Events",
+    "description": "Welcome one and all to the Quest to Eldorado! This adventure is not for the faint of heart. You will be tested and tried as you set out on a journey in search of the legendary buried gold. For centuries, people have searched for the fabled treasure of Eldorado, but it has yet to be found. But now, we believe we have discovered the key to unlock its secrets.\nYou and your team will embark on a treacherous journey through unknown lands, decipher cryptic riddles, solve puzzles and overcome obstacles as you follow the trail of clues that lead to Eldorado. The road ahead will be challenging, but the rewards will be beyond your wildest dreams. A treasure trove of gold, diamonds, and riches awaits those who are brave enough to take on this quest.\nSo gather your wits, sharpen your skills and prepare to embark on an epic adventure. The Quest to Eldorado begins now!",
+    "team_size": 4,
+    "rounds": 6,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 4
+  },
+  {
+    "_slugs": {
+      "title": "rendezvous-of-flair-auras-got-talent-----the-spotlight-is-yours-to-seize",
+      "club": "special-events"
+    },
+    "_id": "6406b733cb5e5780efd997fc",
+    "title": "RENDEZVOUS OF FLAIR (AURA’S GOT TALENT)  -- The spotlight is yours to seize!",
+    "club": "Special Events",
+    "description": "The dais awaits to be lit on fire, and the crowd roars in anticipation. Do you think you’re the best? \nWell, there’s someone better! Come flaunt the true you and take the crowd in awe. Search for that \none thing that unites your fervor and identity, and voila! You can be The Greatest Showman out \nthere! You can either leave the crowd gasping or disgruntled with your Aura. Are you ready to \nfind out if you have what it takes? We’re waiting!\n",
+    "team_size": 10,
+    "rounds": 2,
+    "registration_limit": "Nil",
+    "rules": [],
+    "categories": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "rampe-des-cultures",
+      "club": "fashion-club"
+    },
+    "_id": "6406b733cb5e5780efd997fd",
+    "title": "Rampe des Cultures",
+    "club": "Fashion Club",
+    "description": "\"Every day is a fashion show and the world is your runway\"\nFashion is not just about what you wear, it's about how you wear it. It's about confidence, creativity, and originality. It's about pushing boundaries, breaking down barriers, and setting new trends. So, don't hold back. Embrace your individuality, and let your passion for fashion shine through.",
+    "team_size": 12,
+    "rounds": 2,
+    "registration_limit": "10",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "sensory-sensations-blind-art",
+      "club": "fine-arts-club"
+    },
+    "_id": "6406b733cb5e5780efd997fe",
+    "title": "Sensory sensations (Blind art)",
+    "club": "Fine Arts Club",
+    "description": "In this activity, your team partner has to instruct their “artist” to draw an item. They have to describe their chosen item without revealing what it is and they are not able to see what the “artist” is drawing. At the end of the activity, the team whose drawing is closest to the actual item wins.\nJudging criteria:\r\n1. Originality of the artwork.",
+    "team_size": 4,
+    "rounds": 1,
+    "registration_limit": "100",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "memekaran-meme-making",
+      "club": "dramatics"
+    },
+    "_id": "6406b733cb5e5780efd997ff",
+    "title": "MEMEKARAN (Meme making)",
+    "club": "Dramatics",
+    "description": "You’ve got the wittyness then we’ve got the platform. It's an event for you to showcase the mischievous in you and for this you would be required to make memes,vines and make people laugh. So, Gear up to make them kneel in front of the “God of Mischief”.\nSo join the MEMEKARAN and carry out the namkaran of your creativity.\n",
+    "team_size": 3,
+    "rounds": 3,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "fiesta-de-la-culturas-artathon",
+      "club": "fine-arts-club"
+    },
+    "_id": "6406b733cb5e5780efd99800",
+    "title": "Fiesta de la culturas (Artathon)",
+    "club": "Fine Arts Club",
+    "description": "For all you art lovers, here's your chance to nurture your creativity by running a marathon of art, completing various tasks to express your thoughts without words.\nJudging criteria:\r\n1. Content and topic.\r\n2. The use of the theme and the final execution",
+    "team_size": 4,
+    "rounds": 3,
+    "registration_limit": "100",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "ril-mosaic",
+      "club": "photography-club"
+    },
+    "_id": "6406b733cb5e5780efd99801",
+    "title": "RIL MOSAIC",
+    "club": "Photography Club",
+    "description": "Reels are any motion picture that is short enough in running time not to be considered a feature film. Reels show us how beautiful moments can be captured in a minute, showing us endless creativity and expressions. Aura aims to provide you an opportunity with Ril Mosaic to showcase your inner director within a minute.",
+    "team_size": 4,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "link": true,
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "la-promenade",
+      "club": "fashion-club"
+    },
+    "_id": "6406b733cb5e5780efd99802",
+    "title": "La Promenade",
+    "club": "Fashion Club",
+    "description": "\"Your individuality is your greatest asset as a solo model. Embrace it, showcase it, and let your light shine!\"\nIf you have a love for modeling and a desire to showcase your skills and talents, solo modeling is the perfect opportunity for you. Embrace your individuality, be confident in your abilities and let your personality shine through in your performances. You never know where this exciting journey may take you!",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "40",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "astitva",
+      "club": "dramatics"
+    },
+    "_id": "6406b733cb5e5780efd99803",
+    "title": "Astitva",
+    "club": "Dramatics",
+    "description": "Monologue is the most honest way to represent human beings.”\r\nASTITVA gives you a platform where you can be true to yourself and speak and act your heart out.\r\n",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "cyber-clash-fifa",
+      "club": "e-gaming"
+    },
+    "_id": "6406b733cb5e5780efd99804",
+    "title": "Cyber Clash (FIFA)",
+    "club": "E-Gaming",
+    "description": "FIFA brings The World’s Game to life, letting you play with the biggest leagues, clubs, and players in world football, all with incredible detail and realism. Choose amidst one of the best clubs, known to us nd Control the best players to ever play the game to go against your rivalry.",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "demagoguery-shipwreck",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd99806",
+    "title": "Demagoguery (Shipwreck)",
+    "club": "Literary Club",
+    "description": "This event will put to test your oratory skills and the ability to influence others. Participants will be allotted a popular figure, whom they will represent and compete to secure the only life jacket on a sinking ship by convincing the judges as well as the other participants. ",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "bollydome-eastern--sonata-soire-western-solo-singing",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd99807",
+    "title": "Bollydome (Eastern) & Sonata soireé (Western) (Solo Singing)",
+    "club": "Music Club",
+    "description": "I am in need of music that would flow \nWith melody, deep, clear, and liquid slow \nThere is magic made by melody held in the arms of rhythms.",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "80",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "beethovens-pubsolo-instrumental",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd99808",
+    "title": "Beethoven's pub(Solo Instrumental)",
+    "club": "Music Club",
+    "description": "The sound itself is constructed of 12 notes that are intertwined for Infinity. The artist can show us the beauty that lies between these intertwined notes. So, create your beauty and earn the praise!",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "spontanetics-just-a-minute-jam",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd99809",
+    "title": "Spontanetics (Just-a-minute (JAM))",
+    "club": "Literary Club",
+    "description": "This event is an English extempore, wherein participants need to speak, but the speech is subject to certain rules. A demo of this event will be given prior to the event.",
+    "team_size": 1,
+    "rounds": 2,
+    "registration_limit": "70",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "rythmic-renaissance",
+      "club": "dance-club"
+    },
+    "_id": "6406b733cb5e5780efd9980a",
+    "title": "Rythmic Renaissance",
+    "club": "Dance Club",
+    "description": "Feet's job is to walk, but their passion is dancing. \nA group of passionate feet, who have got only 6 minutes to win the Competition! ( Single round)\n\"Enjoy the Luxury of being You in the crowd\".",
+    "team_size": 10,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 8
+  },
+  {
+    "_slugs": {
+      "title": "symphonic-studio-unplugged",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd9980b",
+    "title": "Symphonic studio (Unplugged)",
+    "club": "Music Club",
+    "description": "Country roads will take you home to the place you belong. An event filled with pure music, free from all distortion that brings out the beauty of acoustics. It’s time to create depths of emotions and touch hearts through music.\nIf you have what it takes to take up the role of a poet on a fighter jet, then May I have your attention please?\nTheme: Original Rap ",
+    "team_size": 8,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "andhadhun-mad-ads",
+      "club": "dramatics"
+    },
+    "_id": "6406b733cb5e5780efd9980c",
+    "title": "ANDHADHUN (Mad-Ads)",
+    "club": "Dramatics",
+    "description": "MAD AD is for students to showcase their creativity in marketing products through an advertisement. Its objective is to acquaint students with promotional strategies in marketing through their skill of acting and presentation.\\nANDHADHUN unlock the marketing skills and creativity in you.",
+    "team_size": 6,
+    "rounds": 3,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "picture-perfect-faces-face-painting",
+      "club": "fine-arts-club"
+    },
+    "_id": "6406b733cb5e5780efd9980d",
+    "title": "Picture perfect faces (Face painting)",
+    "club": "Fine Arts Club",
+    "description": "When you think of face painting, images of carnivals and fairs probably come to mind! Face painting is actually a real art form, and the makeup artists who use faces as their canvas and transform them into animals or fantasy characters are truly talented. Face painting is a great creative outlet for people of all ages. It’s an inexpensive, fun way to explore the worlds of art and imagination.\nJudging criteria:\n1. Creativity\n2. The use of the theme and the final execution",
+    "team_size": 2,
+    "rounds": 1,
+    "registration_limit": "",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "shauryavyuha-20",
+      "club": "shaurya-club"
+    },
+    "_id": "6406b733cb5e5780efd9980e",
+    "title": "Shauryavyuha 2.0 ",
+    "club": "Shaurya Club ",
+    "description": "Shaurya Vyuha 2.0\nYou have never lived until you have almost died, and for those who choose to fight, life has a special favour to go for tricolour. Being a warrior all you need is to fight without the thought of winning.\n\t\tSo here is a chance to be a part of a event to showcase your will with one step ahead. This is a mock SSB procedure which includes tests/tasks to filter out our best officers.",
+    "team_size": 1,
+    "rounds": 3,
+    "registration_limit": "150",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "wordsmith-wars-debate",
+      "club": "literary-club"
+    },
+    "_id": "6406b733cb5e5780efd9980f",
+    "title": "Wordsmith wars (Debate)",
+    "club": "Literary Club",
+    "description": "A Debate competition. ",
+    "team_size": 2,
+    "rounds": 2,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "mr-and-ms-aura",
+      "club": "special-events"
+    },
+    "_id": "6406b733cb5e5780efd99810",
+    "title": "Belligerence: The Ultimate Showdown (Mr. and Ms. Aura)",
+    "club": "Special Events",
+    "description": "The ultimate showdown between personalities for the coveted title of Mr. and Ms. Aura! \nThink quick, be spontaneous and observant, speak your mind, push your limits and don't forget to bring along your sense of humor! ",
+    "team_size": 1,
+    "rounds": 4,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1,
+    "link": true
+  },
+  {
+    "_slugs": {
+      "title": "mukhota-mimicry",
+      "club": "dramatics"
+    },
+    "_id": "6406b733cb5e5780efd99811",
+    "title": "MUKHOTA (Mimicry)",
+    "club": "Dramatics",
+    "description": "Mimicry is not just the sincerest form of flattery- it’s the sincerest form of learning. Do you have multiple personalities in you? Are you capable of mimicking anyone? So here is the chance to show your multiple sides. Come grab the mike and show us your skills.\r\nMUKHOTA gives u the opportunity to mask up as a personality you love and portray the different characters you wish u were given a chance to portray \r\n",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "50",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "two-to-tangoduet-singing",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd99812",
+    "title": "Two to tango(Duet Singing)",
+    "club": "Music Club",
+    "description": "A musical composition for two performers in which they have equal importance to the piece \n\nTheme:- ”Aankhen kitni choti hoti hai, par isme pu re aasman ko dekhne ka hunar hota hai” \n\nThe theme for duet singing is Aankhen",
+    "team_size": 2,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "battle-de-beaute",
+      "club": "fashion-club"
+    },
+    "_id": "6406b733cb5e5780efd99813",
+    "title": "Battle de beaute",
+    "club": "Fashion Club",
+    "description": "\"Makeup is not a tool meant to make an ugly thing beautiful. It is meant only to magnify the beauty that already exists.\"\nGlam up is not just about dressing up; it's about finding the perfect balance between elegance and extravagance. It's about expressing yourself through your style, and making a statement that leaves a lasting impression.",
+    "team_size": 2,
+    "rounds": 2,
+    "registration_limit": "20",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "uptown-funkrap",
+      "club": "music-club"
+    },
+    "_id": "6406b733cb5e5780efd99814",
+    "title": "Uptown funk(RAP)",
+    "club": "Music Club",
+    "description": "Poetry, and on beat!\nCreativity, that is faster than sound!\nThese are the few qualities that define the art form of rap.\nIf you have what it takes to take up the role of a poet on a fighter jet, then May I have your attention please?\nTheme: Original Rap ",
+    "team_size": 1,
+    "rounds": 1,
+    "registration_limit": "Nil",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "megawhats",
+      "club": "quiz-club"
+    },
+    "_id": "6406b733cb5e5780efd99815",
+    "title": "MegaWhats?",
+    "club": "Quiz Club",
+    "description": "",
+    "team_size": 2,
+    "rounds": 2,
+    "registration_limit": "250",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "the-cultural-odyssey-quiz",
+      "club": "quiz-club"
+    },
+    "_id": "6406b733cb5e5780efd99816",
+    "title": "The Cultural Odyssey Quiz",
+    "club": "Quiz Club",
+    "description": "",
+    "team_size": 2,
+    "rounds": 2,
+    "registration_limit": "250",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  },
+  {
+    "_slugs": {
+      "title": "the-game-glam-quiz",
+      "club": "quiz-club"
+    },
+    "_id": "6406b733cb5e5780efd99817",
+    "title": "The Game & Glam Quiz",
+    "club": "Quiz Club",
+    "description": "",
+    "team_size": 2,
+    "rounds": 2,
+    "registration_limit": "250",
+    "rules": [],
+    "event_coordinators": [],
+    "kind": "event",
+    "registered_teams": [],
+    "min_team_size": 1
+  }
+]
