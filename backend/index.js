@@ -32,3 +32,10 @@ expressApp.use("/tickets", ticketRoutes);
 expressApp.use("/receipts", receiptRoutes);
 expressApp.use("/submissions", submissionRoutes);
 expressApp.use("/news", newsRoutes);
+expressApp.use("/", (req, res) => {
+  res
+    .status(200)
+    .send(
+      "<div style='text-align: center;'><h1>This is the server for AURA GIT demo website</h1><h2><a href='https://aura-git.vercel.app'>Visit Site</a></h2></div>"
+    );
+});
