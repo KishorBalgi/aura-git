@@ -25,6 +25,7 @@ import Changed from "./Components/ForgotPassword/Changed";
 import News from "./Components/News/News";
 import "react-toastify/dist/ReactToastify.css";
 import { messageToast } from "./Utils/Toasts/Toasts";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const { setUser } = useUser();
@@ -95,6 +96,7 @@ function App() {
       </section>
       {path !== "/" && <Footer />}
       <ToastContainer className="mt-20" />
+      <Analytics />
     </div>
   );
 }
