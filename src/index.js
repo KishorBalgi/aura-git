@@ -6,6 +6,9 @@ import { CookiesProvider } from "react-cookie";
 import reportWebVitals from "./reportWebVitals";
 import { HashRouter } from "react-router-dom";
 import { UserProvider } from "./Contexts/userContext";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
